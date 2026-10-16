@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a756eb6-dde7-4b33-9d8f-d845541cb4c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProgramacionII-ParcialII.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/Combo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/CompraFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/Pedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/PedidoDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/PedidoEmpaque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/PedidoGarantia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/PedidoPrioritario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/ProcesadorPago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/ProductoIndividual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/ProxyPago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/StripAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scr/main/Java/uniquindio.edu.co/StripUsa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Estebaboso&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Estebaboso/ProgramacionII-ParcialII.git&quot;,
+    &quot;accountId&quot;: &quot;3b59085a-be79-4127-8480-4338328a0a22&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Kl2lzdXqnjGVarREjI4i710ky1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "dev__Esteban",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="uniquindio.edu.co" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.33514.17" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.33514.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a756eb6-dde7-4b33-9d8f-d845541cb4c5" name="Changes" comment="" />
+      <created>1792117989717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792117989717</updated>
+      <workItem from="1792117991888" duration="1061000" />
+      <workItem from="1792119090850" duration="2651000" />
+      <workItem from="1792121802121" duration="670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
